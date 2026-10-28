@@ -1,0 +1,2 @@
+# Force-stopped only. Not disabled. Android Auto starts again when a car connects.
+com.google.android.projection.gearhead

@@ -1,0 +1,4 @@
+# Background-restricted and notifications revoked. The app stays installed.
+# Delete a line before running if you still want that app's notifications.
+com.twitter.android
+com.amazon.mShop.android.shopping

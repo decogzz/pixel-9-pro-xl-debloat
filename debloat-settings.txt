@@ -1,0 +1,10 @@
+# op namespace key value
+put system screen_off_timeout 30000
+put global wifi_scan_always_enabled 0
+put global ble_scan_always_enabled 0
+put global mobile_data_always_on 0
+put secure adaptive_charging_enabled 1
+put secure adaptive_connectivity_enabled 1
+put global window_animation_scale 0.5
+put global transition_animation_scale 0.5
+put global animator_duration_scale 0.5

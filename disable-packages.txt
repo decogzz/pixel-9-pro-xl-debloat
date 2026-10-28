@@ -1,0 +1,30 @@
+# Disabled with pm disable-user. Missing packages are skipped.
+# YouTube itself is not in this list.
+com.android.chrome
+com.google.android.videos
+com.google.android.apps.tachyon
+com.google.android.apps.youtube.music
+com.google.android.apps.wellbeing
+com.google.android.apps.recorder
+com.google.android.apps.tips
+com.google.android.markup
+com.google.ar.core
+com.google.android.as
+com.google.android.as.oss
+com.google.android.apps.pixel.nowplaying
+com.google.android.safetycore
+com.google.android.apps.dreamliner
+com.google.android.dreamlinerupdater
+com.google.android.apps.cbrsnetworkmonitor
+com.google.android.apps.aiwallpapers
+com.google.android.apps.emojiwallpaper
+com.android.traceur
+com.android.musicfx
+com.android.egg
+com.google.android.printservice.recommendation
+com.android.bookmarkprovider
+com.android.providers.partnerbookmarks
+com.google.android.feedback
+com.google.android.partnersetup
+com.google.android.apps.diagnosticstool
+com.google.android.apps.restore
